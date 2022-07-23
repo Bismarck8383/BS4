@@ -1,0 +1,6 @@
+
+var1: CONTENIDO DE VALOR VAR1 YAML
+var2: 100
+
+server:
+  port: 4040
